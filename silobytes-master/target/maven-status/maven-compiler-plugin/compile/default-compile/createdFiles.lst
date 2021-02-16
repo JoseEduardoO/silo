@@ -1,0 +1,9 @@
+com\util\Info.class
+com\App.class
+com\SecondaryController.class
+module-info.class
+com\MenuController.class
+com\modelo\Usuario.class
+com\NovoUsuarioController.class
+com\util\Arquivo.class
+com\PrimaryController.class
